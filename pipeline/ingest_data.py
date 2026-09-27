@@ -34,7 +34,7 @@ parse_dates = [
 
 def run():
     pg_user = 'root'
-    ps_pass = 'root'
+    pg_pass = 'root'
     pg_host = 'localhost'
     pg_port = 5432
     pg_db = 'ny_taxi'
