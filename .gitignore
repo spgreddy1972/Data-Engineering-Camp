@@ -217,3 +217,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.csv
+*.csv.gz
+*.parquet
+
+# Terraform
+.tfvars
+.tfvars.json
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+.terrafromrc
+terraform.rc
+
+*.json
+
+keys/
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
